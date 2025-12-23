@@ -642,13 +642,20 @@ curl -X POST http://localhost:8000/api/chat/stream \
 ## 📸 Screenshots
 
 ### Light Mode
-![Light Mode Interface](docs/light-mode.png)
+![Light Mode Interface](docs/Starting-page.png)
 
 ### Dark Mode
-![Dark Mode Interface](docs/dark-mode.png)
+![Dark Mode Interface](docs/Dark-mode.png)
 
 ### Split View with PDF
-![PDF Viewer](docs/pdf-viewer.png)
+![PDF Viewer](docs/pdf-viewing.png)
+
+### Tool caling
+![Tool Calling](docs/Tool-Calling.png)
+
+### Scource Card
+![Scource Cards](docs/Scource-Cards.png)
+
 
 ---
 
