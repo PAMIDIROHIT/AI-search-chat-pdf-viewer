@@ -748,7 +748,6 @@ MIT License - see [LICENSE](LICENSE) for details.
 ## 🙏 Acknowledgments
 
 - Inspired by [Perplexity AI](https://www.perplexity.ai/)
-- Built for Full Stack AI Developer Take-Home Assignment
 
 ---
 
